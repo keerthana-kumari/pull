@@ -3,6 +3,7 @@ public class MethodRule_1 {
 
 	public static void main(String[] args) {
 		//We can call non-static method we do object creation and call the    method  
+		//abcdefgh
 				MethodRule_1 obj=new MethodRule_1();
 						obj.TestMethod();
 						//We can call static method by class name  
